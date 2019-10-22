@@ -1,0 +1,2 @@
+[2019-10-18 15:54:35] app.ERROR: Data from PrestaShop Addons is invalid, and cannot fallback on cache.  {"exception":"cURL error 28: Operation timed out after 5000 milliseconds with 190853 bytes received"} []
+[2019-10-18 15:58:21] app.ERROR: Data from PrestaShop Addons is invalid, and cannot fallback on cache.  {"exception":"cURL error 28: Operation timed out after 5000 milliseconds with 77702 bytes received"} []
